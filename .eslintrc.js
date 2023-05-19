@@ -17,5 +17,6 @@ module.exports = {
     'import/no-extraneous-dependencies': 'off',
     'no-unused-expressions': 'off',
     'vuejs-accessibility/mouse-events-have-key-events': 'off',
+    'linebreak-style':'off'
   },
 };
